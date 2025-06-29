@@ -58,6 +58,37 @@ I'm a **Senior Software Developer** passionate about **building scalable web & m
 
 ---
 
+### 🧩 Portfolio & Live Projects
+
+Here are some of the real-world applications I've designed, built, and deployed:
+
+- 🌐 [**TLP APP**](http://tlpapp.netlify.app/)  
+  A web platform for community training, digital courses, and educational outreach.
+
+- 🎓 [**DCBCSA Digital Learning**](http://dcbcsa.netlify.app/)  
+  A digital LMS designed for learners and educators to access course material and assignments online.
+
+- 🚌 [**Bus-Car Booking System**](https://bus-car.netlify.app/)  
+  A full-stack bus ticket booking system with search, reservation, and payment integration.
+
+- 💸 [**FinanceD**](https://financed.netlify.app/)  
+  A modern financial dashboard for tracking business performance, revenue, and expenses.
+
+- 🧑‍💻 [**My Developer Portfolio**](https://bonnymkuu.github.io/portfolio/)  
+  My personal showcase with highlighted projects, skillsets, and contact information.
+
+---
+
+### 🏆 Highlights & Achievements
+
+- 🚀 Scaled a financial dashboard system to handle 10K+ records using MongoDB & React
+- 📱 Developed and deployed 5+ Android apps with Firebase, used by over 5,000 users
+- 🧠 Built a machine learning model that predicts user churn with 85%+ accuracy
+- 🌐 Contributed to open-source tools used by other developers
+- 👨‍🏫 Mentored junior devs in data structures, algorithms, and M-Pesa integrations
+
+---
+
 ### ⚡ Fun Facts
 
 - 🔐 I enjoy building developer tools and open-source libraries.
@@ -72,8 +103,24 @@ I'm a **Senior Software Developer** passionate about **building scalable web & m
 
 ---
 
-- 💞️ I’m looking to collaborate on upcomming tech companies
-- 📫 How to reach me bonnymkuu3939@gmail.com and +254771088758
+### 🤝 Let's Collaborate
+
+I'm currently open to:
+
+- 💼 Full-time Software Engineering roles
+- 🧪 Exciting freelance & open-source collaborations
+- 🎓 Speaking/mentoring opportunities on Java, Python, or Data Science
+
+💞️ I’m looking to collaborate with **growing tech companies and impactful startups**
+
+📩 Reach me: **bonnymkuu3939@gmail.com**  
+📞 WhatsApp/Phone: **+254 771 088 758**
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bonnymkuu&theme=tokyonight" />
+</p>
 
 > “Code is not just instructions, it’s **art + logic** that builds the future.”
 
