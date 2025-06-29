@@ -41,8 +41,8 @@ I'm a **Senior Software Developer** passionate about **building scalable web & m
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bonifacenderitu&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonifacenderitu&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bonnymkuu&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonnymkuu&theme=radical" alt="streak" />
 </p>
 
 ---
