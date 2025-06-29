@@ -71,7 +71,7 @@ Here are some of the real-world applications I've designed, built, and deployed:
 - 🚌 [**Bus-Car Booking System**](https://bus-car.netlify.app/)  
   A full-stack bus ticket booking system with search, reservation, and payment integration.
 
-- 💸 [**FinanceD**](https://financed.netlify.app/)  
+- 💸 [**Finance Dashboard**](https://financed.netlify.app/)  
   A modern financial dashboard for tracking business performance, revenue, and expenses.
 
 - 🧑‍💻 [**My Developer Portfolio**](https://bonnymkuu.github.io/portfolio/)  
