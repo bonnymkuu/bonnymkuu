@@ -67,7 +67,7 @@ I'm a **Senior Software Developer** passionate about **building scalable web & m
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bonifacenderitu&theme=matrix&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bonnymkuu&theme=matrix&no-frame=true&margin-w=10" />
 </p>
 
 ---
