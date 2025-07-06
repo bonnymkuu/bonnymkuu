@@ -54,7 +54,7 @@ I'm a **Senior Software Developer** passionate about **building scalable web & m
 - 📱 Android Audio Rental App 
 - 🚌 Online Bus Booking System
 - 📊 Financial Dashboards with Vite, React, Bootstrap
-- 📱 Android app for Socila Media Realtime chats
+- 📱 Android app for Social Media Realtime chats
 
 ---
 
@@ -74,7 +74,7 @@ Here are some of the real-world applications I've designed, built, and deployed:
 - 💸 [**Finance Dashboard**](https://financed.netlify.app/)  
   A modern financial dashboard for tracking business performance, revenue, and expenses.
 
-- 🧑‍💻 [**My Developer Portfolio**](https://bonnymkuu.github.io/portfolio/)  
+- 🧑‍💻 [**My Portfolio**](https://bonnymkuu.github.io/portfolio/)  
   My personal showcase with highlighted projects, skillsets, and contact information.
 
 ---
