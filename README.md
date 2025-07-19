@@ -14,7 +14,7 @@ I'm a **Senior Software Developer** passionate about **building scalable web & m
 - 📱 Built and deployed Android apps used by thousands
 - 🌐 Full-Stack Web Dev — React, Node.js, Firebase, MongoDB
 - 📊 Data Science & ML — Python (Pandas, NumPy, Scikit-learn)
-- 🧮 Advanced in Mathematics, Optimization, and Algorithms
+- 🧮 Advanced in Mathematics, Calculus, Optimization, and Algorithms
 - 🚀 I love turning ideas into powerful software products
 
 ---
