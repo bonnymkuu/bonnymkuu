@@ -68,7 +68,7 @@ Here are some of the real-world applications I've designed, built, and deployed:
 - 🎓 [**DCBCSA Digital Learning**](http://dcbcsa.netlify.app/)  
   A digital LMS designed for learners and educators to access course material and assignments online.
 
-- 🚌 [**Bus-Car Booking System**](https://bus-car.netlify.app/)  
+- 🚌 [**Bus Booking System**](https://safiriexpress.netlify.app/)  
   A full-stack bus ticket booking system with search, reservation, and payment integration.
 
 - 💸 [**Finance Dashboard**](https://financed.netlify.app/)  
