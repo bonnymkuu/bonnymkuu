@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+<!-- Profile Header --> 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=3F51B5&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Boniface+Nderitu;Senior+Software+Developer;Full-Stack+Engineer+%7C+AI+Builder+%7C+Tech+Mentor" />
 </p>
