@@ -114,7 +114,7 @@ I'm currently open to:
 💞️ I’m looking to collaborate with **growing tech companies and impactful startups**
 
 📩 Reach me: **bonnymkuu3939@gmail.com**  
-📞 WhatsApp/Phone: **+254 771 088 758**
+📞 WhatsApp/Phone: **+254 759 993 892**
 
 ---
 
